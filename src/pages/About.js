@@ -27,7 +27,7 @@ class About extends Component
         {
             return  <Redirect to="/signup">
            
-       </Redirect> 
+              </Redirect> 
         }
         else
         {
